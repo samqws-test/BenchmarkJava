@@ -1215,7 +1215,7 @@
         </tomcat.jvmargs.debug>
         <log.directory>${project.build.directory}/log</log.directory>
 
-        <version.apacheds>1.5.7</version.apacheds>
+        <version.apacheds>2.0.0.AM26</version.apacheds>
         <version.apache-shared-ldap>0.9.19</version.apache-shared-ldap>
         <version.exec.maven>1.6.0</version.exec.maven>
         <version.hibernate>3.6.10.Final</version.hibernate>
